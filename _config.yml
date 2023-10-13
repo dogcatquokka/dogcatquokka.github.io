@@ -16,7 +16,7 @@ title_separator          : "-"
 subtitle                 : #"소프트웨어 개발 기술과 서버 운영 경험담 나누기" #"A Jekyll theme"
 name                     : &name "이재우" # &name is a YAML anchor which can be *referenced later
 description              : &description "이 웹사이트는 Github Pages와 Minimal-Mistakes Jekyll 테마를 사용해 만들어졌습니다."
-url                      : https://www.dogcatquokka.com # the base hostname & protocol for your site e.g. "https://dogcatquokka.github.io"
+url                      : https://dogcatquokka.github.io # the base hostname & protocol for your site e.g. "https://dogcatquokka.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "owonseok/owonseok.github.io"
 teaser                   : https://source.unsplash.com/random # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -87,9 +87,9 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "_wonseok_"
+  username               : &twitter "_dogcatguokka_"
 facebook:
-  username               : &facebook "wonseoko"
+  username               : &facebook "dogcatguokka"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
@@ -113,7 +113,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/bluetigero.jpg"
-  bio              : "새로운 기술과 게임을 좋아합니다. 흰머리가 덥수룩하고 게을러서 백발코더 랍니다."
+  bio              : "새로운 ........"
   location         : "Republic of Korea"
   links:
 #    - label: "Made Mistakes"
@@ -121,13 +121,13 @@ author:
 #      url: "https://mademistakes.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_wonseok_"
+      url: "https://twitter.com/_dogcatguokka_"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/wonseoko"
+      url: "https://github.com/dogcatguokka"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/wonseoko/"
+      url: "https://www.linkedin.com/in/dogcatguokka/"
 
 
 # Site Footer
@@ -135,13 +135,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_wonseok_"
+      url: "https://twitter.com/_dogcatquokka_"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/wonseoko"
+      url: "https://github.com/dogcatquokka"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/wonseoko/"
+      url: "https://www.linkedin.com/in/dogcatquokka"
 
 
 # Reading Files
