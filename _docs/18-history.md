@@ -5,7 +5,7 @@ permalink: /docs/history/
 excerpt: "Change log of enhancements and bug fixes made to the theme."
 sidebar:
   nav: docs
-last_modified_at: 2021-10-19T11:26:15-04:00
+last_modified_at: 2023-10-13T11:26:15-04:00
 toc: false
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Jekyll Theme: minimal-mistakes"
-date: 2021-11-12 12:03:47 +0900
-last_modified_at: 2021-11-22 19:42:36 +0900
+title: ".........."
+date: 2023-10-13 12:03:47 +0900
+last_modified_at: 2023-10-13 19:42:36 +0900
 header:
   teaser: /assets/images/unsplash/mistake-52jRtc2S_VE.jpg
   overlay_image: /assets/images/unsplash/mistake-52jRtc2S_VE.jpg
@@ -16,8 +16,8 @@ tags:
 gallery_home:
   - url: /assets/images/owonseok/capture-home-2021-11-22.jpg
     image_path:  /assets/images/owonseok/capture-home-2021-11-22.jpg
-    alt: "2021년 11월 22일 현재 홈페이지 화면"
-    title: "2021년 11월 22일 현재 홈페이지 화면"
+    alt: "2023년 10월 13일 현재 홈페이지 화면"
+    title: "2023년 10월 13일 현재 홈페이지 화면"
 ---
 
 현재 이 웹사이트에 적용되어 있는 [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes){: target=_blank} 테마를 어떻게 커스터마이징을 했는지에 대해 이야기 합니다.
