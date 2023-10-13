@@ -14,8 +14,8 @@ tags:
   - Minimal Mistakes
   - YAML Front Matter
 gallery_home:
-  - url: /assets/images/owonseok/capture-home-2021-11-22.jpg
-    image_path:  /assets/images/owonseok/capture-home-2021-11-22.jpg
+  - url: /assets/images/dogcatquokka/capture-home-2021-11-22.jpg
+    image_path:  /assets/images/dogcatquokka/capture-home-2021-11-22.jpg
     alt: "2023년 10월 13일 현재 홈페이지 화면"
     title: "2023년 10월 13일 현재 홈페이지 화면"
 ---
@@ -67,7 +67,7 @@ Minimal Mistakes는 3가지 방식으로 사용을 할 수 있습니다.
 
 ## 시작하기전에
 
-이 글을 읽고 계신 분들은 이미 owonseok.com에 접속하셨음을 의미합니다. 아직 초반이라 페이지 수가 많지 않지만, 다음과 같은 홈페이지 화면과 몇 개의 포스트 목록을 보고 계실 것입니다. 
+이 글을 읽고 계신 분들은 이미 dogcatquokka.com에 접속하셨음을 의미합니다. 아직 초반이라 페이지 수가 많지 않지만, 다음과 같은 홈페이지 화면과 몇 개의 포스트 목록을 보고 계실 것입니다. 
 
 {% include gallery id="gallery_home" caption="2021년 11월 22일 현재 홈페이지 화면" %}
 
@@ -86,7 +86,7 @@ Minimal Mistakes는 3가지 방식으로 사용을 할 수 있습니다.
 
 여러 분들이 저를 따라 만들고자 하신다면 저 처럼 docs 이하 부분을 여러분의 저장소 루트에 복사하시면 됩니다.
 
-참고로 현재 이 웹사이트의 코드는 당연하게도 [제 Github 저장소](https://github.com/owonseok/owonseok.github.io)를 통해 확인 가능합니다.
+참고로 현재 이 웹사이트의 코드는 당연하게도 [제 Github 저장소](https://github.com/dogcatquokka.github.io)를 통해 확인 가능합니다.
 {: .notice--info}
 
 초기 상태에는 _include 폴더나 assets/css 폴더가 존재하지 않습니다. 네.. 눈치채셨나요? 우리는 _include, _layout, /assets/css 폴더에 별도의 파일을 추가하여 기존 Layout이나 CSS 스타일 값을 재정의 해서 사용 할 것입니다. Jekyll에서는 이 사용자 정의 폴더의 내용을 빌드시 참조하여 원 소스의 내용과 통합 시켜줍니다.
