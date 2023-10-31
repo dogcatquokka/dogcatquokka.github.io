@@ -35,7 +35,6 @@ show_aboutme_card: true
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
 about_me_description:
-<link rel="stylesheet" href=""
   <i class="fa-solid fa-user"></i> 이름: 이재우
   <i class="fa-regular fa-calendar"></i> 생년월일: 99.10.01
   <i class="fa-solid fa-location-dot"></i> 주소지: 대전광역시 복수동
