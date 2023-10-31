@@ -1,0 +1,32 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: ReactJS
+  weight: 2
+
+- name: NodeJS
+  weight: 3
+
+- name: NestJS
+  weight: 3
+
+- name: Spring
+  weight: 1
+
+- name: Swagger
+  weight: 1
+
+- name: SocketIO
+  weight: 1
+# - name: Express
+#   weight: 3
+
+# - name: Django
+#   weight: 1
+
+# - name: Rails
+#   weight: 4
