@@ -1,8 +1,16 @@
 - name: AWS Certified Cloud Practitioner (CLF-C01)
   descr: AWS Certification
   date: "2023-01-20"
-  Review: https://velog.io/@flfns333/AWS-AWS-Cloud-Practitioner-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0
+  Review: 
 
-- name: "정보처리기사"
-  descr: "한국산업인력공단"
-  date: "2021-08-20"
+- name: "ITQ엑셀"
+  descr: "한국생산성본부"
+  date: "2019.05.26 "
+
+- name: "컴활1급실기"
+  descr: "대한상공회의소"
+  date: "2022.11.11"
+
+- name: "SQLD"
+  descr: "한국생산성본부"
+  date: "2023-12-20"
