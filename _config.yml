@@ -34,13 +34,9 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description:
-  <i class="fa-solid fa-user"></i> 이름: 이재우
-  <i class="fa-regular fa-calendar"></i> 생년월일: 99.10.01
-  <i class="fa-solid fa-location-dot"></i> 주소지: 대전광역시 복수동
-  <i class="fa-solid fa-phone"></i> 연락처: 010-3378-6169
-  <i class="fa-regular fa-envelope"></i> 이메일: dlwodn9910@gmail.com
-  <i class="fa-solid fa-pen"></i> 학력: 대전과학기술대 (보건의료행정)githubio
+about_me_description: "I am a passionate individual interested in technology and eager to learn more about programming and development."
+
+
 
 # SKILLS SECTION
 # show_skills_card:
