@@ -35,7 +35,7 @@ show_aboutme_card: true
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
 about_me_description:
-
+<link rel="stylesheet" href=""
   <i class="fa-solid fa-user"></i> 이름: 이재우
   <i class="fa-regular fa-calendar"></i> 생년월일: 99.10.01
   <i class="fa-solid fa-location-dot"></i> 주소지: 대전광역시 복수동
@@ -137,3 +137,25 @@ exclude:
     "node_modules",
     "package.json",
   ]
+  #fontAwesome 사용
+Params:
+  mod_icons:
+    enableAutoTitle: true
+    enableStats: false
+    defaultLoader: svg-use
+    defaultLoaderShortcode: svg-inline
+    iconBaseClass: icon
+
+module:
+  hugoVersion:
+    extended: true
+    # needed for multi-line dicts and some other advanced features:
+    min: "0.80.0"  
+    max: "1.00.0"
+  imports:
+  - path: "github.com/FortAwesome/Font-Awesome"
+    mounts:
+    - source: "svgs/"
+      target: "assets/mod-icons/fa/svg/"
+    - source: "metadata/"
+      target: "assets/mod-icons/fa/meta/"
