@@ -17,46 +17,58 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: 42Seoul
-  title-url: https://42seoul.kr/seoul42/main/view/
-  date: Dec 2020 - Dec 2022
+- title: (계룡건설)빅데이터 기반 Green Tech SW개발자
+  title-url: https://mcea.co.kr/kr/
+  date: Jun 2023 - Dec 2023
   subtitle: Member
   tags:
-    - tag: C
-    - tag: C++
+    - tag: JAVA
+    - tag: Python
     - tag: Javascript
     - tag: Docker
-    - tag: Makefile
-    - tag: vim
+    - tag: Spring
+    - tag: Oralcle
   timeline-side: left
 
-- title: PingPong Web Service
-  title-url: https://github.com/Dream-Transcendence/ft_transcendence/
-  date: Oct 2022 - Nov 2022
-  subtitle: Frontend Developer
+- title: (계룡건설)빅데이터 기반 Green Tech SW개발자
+  title-url: https://mcea.co.kr/kr/
+  date: Jun 2023 - Dec 2023
+  subtitle: Member
   tags:
-    - tag: TypeScript
-    - tag: React
-    - tag: Recoil
-    - tag: Figma
-    - tag: SocketIO
-  timeline-side: right
+    - tag: JAVA
+    - tag: Python
+    - tag: Javascript
+    - tag: Docker
+    - tag: Spring
+    - tag: Oralcle
+  timeline-side: left
+# - title: PingPong Web Service
+#   title-url: https://github.com/Dream-Transcendence/ft_transcendence/
+#   date: Oct 2022 - Nov 2022
+#   subtitle: Frontend Developer
+#   tags:
+#     - tag: TypeScript
+#     - tag: React
+#     - tag: Recoil
+#     - tag: Figma
+#     - tag: SocketIO
+#   timeline-side: right
 
-- title: 42Dashboard
-  title-url: https://github.com/innovationacademy-kr/42dashboard/discussions/
-  date: Jun 2022 - Oct 2022
-  subtitle: Backend Developer
-  tags:
-    - tag: TypeScript
-    - tag: NestJS
-    - tag: PostgreSQL
-    - tag: ERD cloud
-    - tag: AWS
+# - title: 42Dashboard
+#   title-url: https://github.com/innovationacademy-kr/42dashboard/discussions/
+#   date: Jun 2022 - Oct 2022
+#   subtitle: Backend Developer
+#   tags:
+#     - tag: TypeScript
+#     - tag: NestJS
+#     - tag: PostgreSQL
+#     - tag: ERD cloud
+#     - tag: AWS
 
-  timeline-side: right
+#   timeline-side: right
 
 - title: Daejeon University
-  title-url: https://www.dju.ac.kr/intro/intro.html/
-  date: Mar 2014 - Feb 2021
-  subtitle: Electronic Information Communication Engineering
+  title-url: 
+  date: Mar 2019 - Feb 2024
+  subtitle: Department of Medical Administration
   timeline-side: left

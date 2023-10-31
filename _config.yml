@@ -1,5 +1,5 @@
 ### VALUES YOU SHOULD CHANGE ###
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
 title: Dogcatquokka
@@ -36,12 +36,13 @@ show_aboutme_card: true
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
 about_me_description:
-  이름: 이재우
-  생년월일: 99.10.01
-  주소지: 대전광역시 복수동
-  연락처: 010-3378-6169
-  이메일: dlwodn9910@gmail.com
-  학력: 대전과학기술대 (보건의료행정)githubio
+
+  <i class="fa-solid fa-user"></i> 이름: 이재우
+  <i class="fa-regular fa-calendar"></i> 생년월일: 99.10.01
+  <i class="fa-solid fa-location-dot"></i> 주소지: 대전광역시 복수동
+  <i class="fa-solid fa-phone"></i> 연락처: 010-3378-6169
+  <i class="fa-regular fa-envelope"></i> 이메일: dlwodn9910@gmail.com
+  <i class="fa-solid fa-pen"></i> 학력: 대전과학기술대 (보건의료행정)githubio
 
 # SKILLS SECTION
 # show_skills_card:
